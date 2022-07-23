@@ -2,8 +2,6 @@
 
 This is front-end of our smartcontract lottery dapp. Simple one :) 
 
-![App](img/readme-app.png)
-
 Built with ❤️ using:
 NextJS
 Solidity
